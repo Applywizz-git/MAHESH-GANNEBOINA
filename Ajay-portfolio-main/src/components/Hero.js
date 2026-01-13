@@ -42,7 +42,7 @@ const Hero = () => {
                             <button onClick={scrollToPortfolio} className="bg-gradient-to-r from-green-400 to-blue-500 px-8 py-3 rounded-lg font-semibold hover-glow transition-all duration-300">
                                 View My Work
                             </button>
-                            <a href="RESME_MAHESH_GANNEBOINA.pdf" download>
+                            <a href="/RESME_MAHESH_GANNEBOINA.pdf" download="RESUME_MAHESH_GANNEBOINA.pdf">
                                 <button className="border border-gray-600 px-8 py-3 rounded-lg font-semibold hover:border-green-400 transition-all duration-300">
                                     Download CV
                                 </button>
