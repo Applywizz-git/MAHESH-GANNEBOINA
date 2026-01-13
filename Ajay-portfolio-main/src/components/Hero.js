@@ -52,7 +52,7 @@ const Hero = () => {
                     <div className="order-1 lg:order-2 flex justify-center">
                         <div className="relative">
                             <div className="w-80 h-120 rounded-full overflow-hidden neon-border animate-pulse-glow">
-                                <img src="images/profile_avatar.png" alt="Profile" className="w-full h-full object-cover" />
+                                <img src="images/mahesh_profile.png" alt="Profile" className="w-full h-full object-cover" />
                             </div>
                             <div className="absolute -top-4 -right-4 w-20 h-20 bg-green-400 rounded-full animate-float opacity-20"></div>
                             <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-blue-400 rounded-full animate-float opacity-20" style={{ animationDelay: '2s' }}></div>

@@ -45,7 +45,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <div className="w-full h-96 rounded-2xl overflow-hidden border border-gray-700">
-              <img src="images/profile_avatar.png" alt="About Me" className="w-full h-full object-fill" />
+              <img src="images/mahesh_profile.png" alt="About Me" className="w-full h-full object-fill" />
             </div>
           </div>
           <div>
